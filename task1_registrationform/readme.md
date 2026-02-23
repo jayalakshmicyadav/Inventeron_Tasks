@@ -5,14 +5,6 @@ The form demonstrates the use of input fields, labels, and form submission struc
 
 ---
 
-## 📸 Preview
-
-Here’s a screenshot of the registration form:
-
-![Registration Form Screenshot](Screenshot(78).png)
-
----
-
 ## 📝 Features
 
 - User-friendly registration form
