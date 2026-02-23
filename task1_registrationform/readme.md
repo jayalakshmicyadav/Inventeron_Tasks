@@ -9,9 +9,7 @@ The form demonstrates the use of input fields, labels, and form submission struc
 
 Here’s a screenshot of the registration form:
 
-![Registration Form Screenshot](Screenshot(78)png)
-
-*(Make sure you upload `screenshot.png` into this folder so the image displays correctly on GitHub.)*
+![Registration Form Screenshot](Screenshot(78).png)
 
 ---
 
@@ -29,4 +27,3 @@ Here’s a screenshot of the registration form:
 1. Clone the repository:
    ```bash
    git clone https://github.com/jayalakshmicyadav/Inventeron_Tasks.git
-
