@@ -5,13 +5,6 @@ The form demonstrates how to add a security layer to prevent automated submissio
 
 ---
 
-## 📸 Preview
-
-*(Add a screenshot of your form here once uploaded, for example:)*
-
-![Form with Captcha Screenshot](screenshot.png)
-
----
 
 ## 📝 Features
 
